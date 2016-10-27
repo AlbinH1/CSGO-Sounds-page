@@ -1,0 +1,85 @@
+body {
+	background: url("Distorted BG.jpg");
+}
+
+h1 { 
+    color: white;
+    text-align: center;
+    font-family: arial; 
+ }
+
+ p { 
+ 	color: white;
+ 	text-align: center;
+ 	font-family: arial;
+ 	font-size: 25px;
+ }
+
+.Topp {
+	margin: auto;
+}
+
+.ak{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.awp {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.m4a1s {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.deagle {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.akbutton {
+  width:100%;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0 auto;
+  position: absolute;
+  top: 80%;
+}
+
+.awpbutton {
+  width:100%;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0 auto;
+  position: absolute;
+  top: 165%;
+}
+
+.m4a1sbutton {
+  width:100%;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0 auto;
+  position: absolute;
+  top: 230%;
+}
+
+.deaglebutton {
+  width:100%;
+  display:inline-block;
+  overflow: auto;
+  white-space: nowrap;
+  margin:0 auto;
+  position: absolute;
+  top: 320%;
+}
+
+button {
+	height: 100px;
+	width: 200px;
+}
